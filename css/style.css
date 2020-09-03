@@ -1,0 +1,30 @@
+.banner-container{
+
+}
+
+.navbar-color{
+    background-color:rgba(0,0,0,0.5);
+}
+
+.nav-item:hover{
+    font-size: 20px;
+}
+
+.navbar{
+    z-index: 2;
+}
+
+.about-image{
+    border-radius: 50%;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo-edu{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+}
