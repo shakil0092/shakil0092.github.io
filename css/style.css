@@ -1,9 +1,6 @@
-.banner-container{
-
-}
-
+/* transparent-color */
 .navbar-color{
-    background-color:rgba(0,0,0,0.5);
+    background-color:rgba(0,0,0,0.5); 
 }
 
 .nav-item:hover{
@@ -26,5 +23,9 @@ body{
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    background-color: aqua;
+    background-color: white;
+    font-size: 35px;
 }
+
+
+
