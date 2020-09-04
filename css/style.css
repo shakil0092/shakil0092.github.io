@@ -27,5 +27,26 @@ body{
     font-size: 35px;
 }
 
+.logo-project{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+.testimonial-names{
+    padding: 10px;
+}
+.testimonial-img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 5px;
+}
+
 
 
